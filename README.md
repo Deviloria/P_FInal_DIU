@@ -1,5 +1,8 @@
 # PRÁCTICA FINAL DIU - DANIEL VILORIA PRIETO
 
+**Autor**: Daniel Viloria Prieto  
+**Fecha**: 04/06/2025  
+
 # PARTE I: MI EXPERIENCIA UX 
 
 Durante el curso 2024/25 de Diseño de Interfaces de Usuario he tenido la oportunidad de aprender de manera práctica y reflexiva lo que significa diseñar desde la perspectiva del usuario. Antes de esta asignatura, tenía una idea bastante superficial de lo que implicaba el diseño UX/UI: pensaba que se trataba principalmente de elegir colores o h acer pantallas "bonitas". Sin embargo, a lo largo del proyecto ECO-PICK he descubierto que el verdadero valor del diseño está en escuchar, interpretar y dar soluciones claras a necesidades reales.
