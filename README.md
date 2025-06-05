@@ -3,95 +3,224 @@
 **Autor**: Daniel Viloria Prieto  
 **Fecha**: 04/06/2025  
 
-# PARTE I: MI EXPERIENCIA UX 
+# PARTE I
 
-Durante el curso 2024/25 de Diseño de Interfaces de Usuario he tenido la oportunidad de aprender de manera práctica y reflexiva lo que significa diseñar desde la perspectiva del usuario. Antes de esta asignatura, tenía una idea bastante superficial de lo que implicaba el diseño UX/UI: pensaba que se trataba principalmente de elegir colores o h acer pantallas "bonitas". Sin embargo, a lo largo del proyecto ECO-PICK he descubierto que el verdadero valor del diseño está en escuchar, interpretar y dar soluciones claras a necesidades reales.
+**Autor**: Daniel Viloria Prieto  
+**Fecha**: 04/06/2025 
 
-##  1. Análisis y descubrimiento: empezar con los pies en la tierra
+----
 
-Uno de los primeros aprendizajes importantes fue que diseñar no es empezar con Figma o con ideas bonitas, sino con datos. 
+# 🌿 Mi experiencia UX – Proyecto ECO-PICK
 
-En la fase inicial hicimos un análisis competitivo de plataformas ecológicas reales como Ecojaral y Valle&Vega, y descubrimos que, más allá de lo estético, muchas fallaban en lo funcional: menús poco claros, falta de feedback y procesos de compra confusos. 
-Utilizamos una tabla de revisión heurística basada en los principios de Nielsen, lo que me ayudó a interiorizar conceptos como visibilidad del estado del sistema, consistencia o control por parte del usuario.
+Este repositorio recoge mi recorrido como estudiante de Diseño de Interfaces de Usuario durante el curso 2024/25. A través del proyecto ECO-PICK, he pasado de tener una visión superficial del diseño UX/UI a comprenderlo como una disciplina centrada en las personas, basada en la investigación, la empatía y la mejora continua.
 
-Además, definimos dos perfiles de usuario contrastados: Marta, una joven muy digital y motivada por el consumo sostenible, y Miguel Ángel, un perfil más tradicional y poco habituado a las plataformas online. 
+---
 
-Estos arquetipos no eran simples “figuras”, sino que vinieron acompañados de user journey maps donde analizamos cómo sería su experiencia paso a paso en plataformas reales. De ahí extraje aprendizajes que me ayudaron a visualizar dónde se frustran los usuarios o en qué momentos necesitan más apoyo. Esta fase fue clave para afinar la propuesta de valor desde el inicio.
+## 🧩 Fases del proyecto y aprendizajes clave
 
-Durante esta etapa también aprendí a recopilar información con una mirada crítica. Por ejemplo, observé patrones repetidos en los puntos de salida de usuarios en plataformas reales, lo cual me permitió tomar decisiones más acertadas sobre la estructura del menú y el orden de presentación de los productos. Algo tan "invisible" como el orden del scroll o el diseño de filtros puede cambiar radicalmente la percepción del usuario.
+### 1. Análisis y descubrimiento
+- Estudio comparativo de plataformas reales (Ecojaral, Valle&Vega).
+- Revisión heurística con los principios de Nielsen.
+- Creación de **perfiles de usuario** (Marta y Miguel Ángel) y sus **User Journey Maps**.
+- Detecté errores comunes en diseño estructural y oportunidades de mejora.
+
+### 2. Empatía y propuesta de valor
+- Uso de herramientas como el **Mapa de Empatía** y el **Feedback Capture Grid**.
+- Definición de una propuesta clara: una tienda ecológica que premia el consumo local.
+- Entendí que una propuesta de valor debe ser simple, relevante y emocionalmente conectada.
+
+### 3. Arquitectura y flujos
+- Elaboración de **Scope Canvas**, **User Task Matrix**, **User Flows** y **Sitemap**.
+- Priorización de funcionalidades según necesidades reales.
+- Aprendí a estructurar flujos lógicos y a prevenir errores de navegación.
+
+### 4. Diseño visual y prototipado
+- Diseño mobile-first en Figma con énfasis en accesibilidad (contrastes, legibilidad, jerarquías).
+- Moodboard, wireframes de baja fidelidad y mockups de alta fidelidad.
+- Apliqué patrones de diseño como onboarding, filtros y wizard de compra.
+
+### 5. Reflexión personal
+- Contribuí activamente en la investigación y la validación del diseño.
+- Aprendí a **justificar decisiones** con criterio y datos.
+- Me siento más preparado para trabajar con equipos reales de diseño y desarrollo.
+
+---
+
+## 🧠 Conclusiones
+
+- El diseño UX no es solo estética: es investigación, estructura y empatía.  
+- He adquirido habilidades prácticas y teóricas con herramientas reales del sector.  
+- Comprendo la importancia de prototipar, validar y diseñar pensando siempre en el usuario final.  
+- Estoy más cerca de enfrentar retos reales de diseño con pensamiento crítico y metodología.
+
+> "Una buena experiencia de usuario es invisible: simplemente funciona."
+
+---
+
+# PARTE II – Caso de Estudio: Film Commission
+
+**Autor**: Daniel Viloria Prieto  
+**Fecha**: 04/06/2025  
+
+## 1. Análisis UX – Salamanca Film Commission
+
+### Usabilidad general
+
+La web de la [Salamanca Film Commission](https://salamancafilmcommission.com/) presenta un diseño limpio, pero sufre carencias desde el punto de vista de usabilidad según los principios de Nielsen:
+
+- **Falta de feedback**: No se indica al usuario en qué sección está navegando.
+- **Lenguaje poco intuitivo**: Etiquetas como "Ventajas" o "Fines" no aclaran su propósito.
+- **Sin buscador**: Lo cual impide búsquedas rápidas de localizaciones o servicios.
+- **Inconsistencia**: Secciones estructuradas de forma diferente y enlaces que no abren en nuevas pestañas.
+
+### Accesibilidad
+
+- **Bajo contraste** en algunos textos.
+- **Tamaño de letra pequeño**, especialmente en dispositivos móviles.
+- **Sin navegación por teclado** ni compatibilidad clara con lectores de pantalla.
+
+### Adaptabilidad móvil (Responsive Design)
+
+- **Diseño no optimizado** para navegación táctil.
+- **Menús pequeños** y difíciles de pulsar.
+- **Contenido desalineado** en pantallas estrechas.
+- **Sin lazy loading**: imágenes pesadas que cargan lento.
+
+### Arquitectura y flujo de navegación
+
+- **Estructura confusa**: no se priorizan las necesidades de productores o visitantes.
+- **Contenido pobre o inexistente** en algunas secciones (como Filmografía).
+- **Dificultad para acceder a la información clave**, como localizaciones o contacto directo.
+
+### Experiencia general
+
+- La web transmite una imagen institucional poco atractiva.
+- No hay **interacción emocional** (testimonios, casos de éxito, itinerarios).
+- Falta una narrativa clara sobre los beneficios de rodar en Salamanca.
+
+---
+
+## Comparativa con [Granada Film Commission](https://filmgranada.com/).
+
+## 📊 Conclusiones del análisis comparativo
+
+Desde una perspectiva profesional y aplicando los principios del **Diseño Centrado en el Usuario**, el análisis de las webs de **Salamanca** y **Granada Film Commission** pone de manifiesto enfoques muy distintos en cuanto a diseño y funcionalidad. A continuación, se presentan las principales conclusiones como jurado experto en usabilidad y experiencia de usuario.
+
+---
+
+### 👤 ¿Quién es el usuario y qué necesita?
+
+Ambas plataformas están dirigidas principalmente a **profesionales del sector audiovisual** —productores, localizadores, técnicos— interesados en rodar en localizaciones atractivas con respaldo institucional. De forma secundaria, también pueden interesar a **turistas culturales** o **estudiantes de cine**.
+
+#### Necesidades clave:
+- 📍 Acceso rápido a información práctica sobre localizaciones.
+- 🧾 Ayuda clara sobre permisos y logística de rodaje.
+- 🎬 Ejemplos de producciones anteriores como aval.
+- 📞 Comunicación sencilla con el equipo responsable.
+
+---
+
+### ✅ Puntos fuertes desde el factor humano: *Granada Film Commission*
+
+La web de Granada Film Commission destaca por ofrecer una experiencia más cercana, accesible y emocional al usuario. Entre sus aciertos:
+
+- 🔹 Navegación limpia y bien estructurada.
+- 🔹 Secciones orientadas a tareas concretas.
+- 🔹 Contenido emocional (imágenes, testimonios, filmografía).
+- 🔹 Traducción al inglés para alcance internacional.
+- 🔹 Diseño responsive con buena velocidad de carga.
+
+> Resultado: una experiencia que genera **confianza, claridad y accesibilidad**. Clave para usuarios que toman decisiones logísticas bajo presión.
+
+---
+
+### ⚠️ Aspectos mejorables: *Salamanca Film Commission*
+
+En contraste, la web de Salamanca presenta una experiencia más institucional y menos centrada en las tareas reales del usuario:
+
+- 🚫 Menú poco orientado a la acción.
+- 🚫 Secciones abstractas como “Fines” o “Ventajas”.
+- 🚫 Falta de buscador o filtros de localización.
+- 🚫 Problemas de usabilidad en dispositivos móviles.
+- 🚫 Páginas vacías o mal optimizadas (ej. “Filmografía”).
+
+> Esto sugiere un diseño basado en una lógica administrativa clásica, lo que dificulta la navegación y genera desmotivación.
+
+---
+
+### 🧠 ¿Se ha aplicado bien el diseño centrado en el usuario?
+
+**Granada Film Commission** aplica correctamente principios UX como:
+- Jerarquía visual clara.
+- Accesibilidad.
+- Diseño emocional.
+- Flujo de navegación coherente.
+
+**Salamanca Film Commission**, en cambio, no aplica principios de usabilidad proactiva ni se adapta a dispositivos actuales.
+
+#### 🔧 Recomendaciones para Salamanca:
+- Reestructurar el menú con enfoque en tareas.
+- Incluir filtros interactivos por tipo de localización.
+- Diseñar fichas visuales con datos técnicos, imágenes y geolocalización.
+- Crear una página de inicio con beneficios claros del rodaje en Salamanca.
+- Aplicar diseño **mobile-first** y mejorar la accesibilidad (contrastes, navegación por teclado, alt text).
+- Añadir testimonios y ejemplos reales de producciones.
+
+---
+
+### 🧩 Conclusión final
+
+> Como experto en UX, se concluye que **Granada Film Commission** cumple con los principios del diseño centrado en el usuario, mientras que **Salamanca Film Commission** requiere una **reformulación integral** basada en tareas, accesibilidad y claridad comunicativa.
+
+Un rediseño enfocado en estos criterios no solo mejoraría la experiencia digital, sino que también potenciaría la imagen de Salamanca como **destino de rodajes**, con impacto **económico y cultural real** en la región.
+
+---
 
 
+## 3.Propuesta de valor con ScopeCanvas.
 
-##  2. De la empatía a la propuesta de valor
+![image](https://github.com/user-attachments/assets/6ce912c1-79b4-4c50-ad65-eb00cb11530a)
 
-Gracias a herramientas como el Feedback Capture Grid y el Mapa de Empatía, aprendí a poner en palabras las necesidades, frustraciones y expectativas del usuario.
-Fue aquí donde realmente sentí que el diseño UX es algo más que intuición; se trata de escuchar y ordenar. Es decir, no es proyectar lo que yo haría, sino tratar de comprender a alguien distinto a mí.
+---
+## 4. Diseño de un mockup/rediseño enfocado a experiencia móvil.
 
-Esta fase nos llevó a definir el corazón del proyecto ECO-PICK: una tienda ecológica online que premia a quienes compran productos de cercanía con descuentos proporcionales. Esta idea no surgió de la nada, sino de detectar una oportunidad en la intersección entre sostenibilidad, hábitos de consumo y economía local. 
+## Inicio
 
-Aprendí que una buena propuesta de valor debe ser simple, relevante y fácilmente comunicable.
-Para organizar todas las ideas, utilicé el Feedback Capture Grid, donde clasifiqué puntos de dolor, deseos y oportunidades. 
-Esta herramienta me ayudó a tomar decisiones con base en datos cualitativos y no en suposiciones.
-También reflexioné mucho sobre cómo conectar emocionalmente con el usuario. No se trataba solo de crear una plataforma útil, sino también de transmitir valores. Este trabajo me llevó a entender que la propuesta de valor también tiene una dimensión narrativa: cómo cuentas lo que haces es tan importante como lo que haces.
+![image](https://github.com/user-attachments/assets/8c114e9a-13b0-412f-8545-755f5dc8f3db)
 
-##  3. Arquitectura y flujos: diseñar desde la lógica del usuario
+## Filtro por ciudad y tipo de escena
 
-Una vez validado el enfoque, pasamos a organizar la información y las tareas.  Aquí elaboramos:
+![image](https://github.com/user-attachments/assets/2be96dc1-3262-41ce-9011-8d48e2a5ff2d)
 
-- Un Scope Canvas que nos ayudó a definir qué funcionalidades eran imprescindibles, quiénes eran
-los actores clave, y qué limitaciones técnicas o de contexto debíamos tener en cuenta.
+## Contacto
 
-- Una User Task Matrix, donde asocié tareas a los perfiles de usuario. Esto me permitió ver qué funcionalidades eran esenciales y cuáles podían ser opcionales. Me ayudó también a pensar en accesos directos, flujos simplificados y estados intermedios (como el carrito).
-
-- Un User Flow que me sirvió para ver de forma global todo el recorrido del usuario en la aplicación. Aprendí a identificar puntos de fuga, bifurcaciones y la importancia de minimizar clics innecesarios. Este paso me preparó para hacer prototipos más lógicos y entender lo importante que es la jerarquía de pasos, los puntos de retorno, y cómo evitar que el usuario se “pierda”.
-
-También creamos un Sitemap jerárquico que estructuró toda la navegación, y wireframes de baja fidelidad que nos sirvieron como primeras representaciones visuales del producto. 
-Aprendí a tomar decisiones como diseñador: dónde colocar el buscador, cómo distribuir los botones, o cómo guiar la atención del usuario en pantallas clave.
-
-Además, aprendí la importancia de documentar bien las decisiones. Tener un registro de cada paso me ayudó a justificar las funcionalidades incluidas y a tener más seguridad en mis presentaciones. Esta organización también me permitió iterar mejor sobre mis propios diseños.
-
-##  4. Diseño visual y prototipado
-
-En la fase final, el foco fue la identidad visual y la accesibilidad, pero antes de pasar a lo visual, elaboré un Sitemap para jerarquizar secciones, y después hice wireframes en baja fidelidad. 
-Me centré en aspectos como alineación visual, distribución de contenidos y claridad de llamadas a la acción. En esta etapa comprendí que un buen wireframe puede prevenir muchos errores de navegación.
-Para el diseño visual, preparé un moodboard con referencias visuales alineadas con la identidad ecológica del proyecto. Elegí una paleta cromática suave, verde y beige, y tipografías con buena legibilidad. 
-Luego desarrollé mockups de alta fidelidad en Figma, donde apliqué patrones como onboarding, carrusel de productos, filtros claros y un flujo de compra tipo wizard.
-En esta parte me enfrenté al reto de diseñar para móvil primero (mobile-first). Me di cuenta de lo importante que es pensar en el pulgar, en el scroll y en el espacio limitado.
- También trabajé aspectos de accesibilidad, como contraste de colores, iconografía clara y textos descriptivos.
-Fue en esta parte donde más sentí el reto del diseño real: pasar de las ideas a algo tangible que funcione en cualquier dispositivo, que comunique bien y que no genere fricción. 
-
-Además, pude comprobar que muchas decisiones visuales no eran arbitrarias: el tamaño de un botón, la separación entre elementos o incluso el microcopy que acompaña a un campo pueden marcar la diferencia en cómo el usuario percibe la facilidad de uso.
+![image](https://github.com/user-attachments/assets/116c87f4-00fb-44b6-a89a-cd5ac16b5899)
 
 
-##  5. Reflexión personal y aportación
+# 5.Reflexión final y autoevaluación
 
-Mi principal aportación al proyecto ha sido mi capacidad para conectar puntos: detectar patrones comunes entre usuarios, identificar oportunidades de diseño y argumentar decisiones con criterios. He contribuido activamente en la investigación, en la definición de la propuesta de valor y en las tareas de prototipado y validación.
+Este repositorio recoge un análisis UX comparativo entre las webs de **Salamanca** y **Granada Film Commission**, con propuestas de rediseño aplicadas según principios de diseño centrado en el usuario (DCU).
 
-Además, valoro especialmente haber aprendido a trabajar en equipo dentro del marco UX. Todo lo que hicimos se apoyaba en herramientas reales de la industria, pero también en valores como la empatía, la sostenibilidad y la mejora continua.
+## ✅ Lo que he aplicado
 
-A día de hoy me siento mucho más preparado para enfrentar retos reales de diseño. 
-Siento que he crecido mucho como diseñador. Ya no pienso sólo en "cómo se ve" una interfaz, sino en "cómo se usa". Aprendí que una buena experiencia no siempre se nota, pero una mala se recuerda.
+- Análisis del perfil de usuario y sus necesidades reales.
+- Evaluación de interfaces con criterios de usabilidad y accesibilidad.
+- Propuestas visuales coherentes con la identidad y objetivos de la web.
+- Aplicación argumentada de principios UX: navegación por tareas, diseño emocional, mobile-first.
 
-Ahora comprendo la importancia de:
+## 🔍 Lo que hubiera sido interesante incorporar
 
-- Investigar antes de diseñar.
+- Validación con usuarios reales mediante tests o entrevistas.
+- Prototipos interactivos (Figma, Adobe XD) en lugar de solo mockups estáticos.
+- Métricas cuantitativas de usabilidad para medir impacto real.
+- Revisión técnica más profunda sobre accesibilidad (contrastes, navegación por teclado, etc.).
 
-- Validar con datos, no con suposiciones.
+## 🚀 Conclusión
 
-- Prototipar en baja fidelidad antes de invertir tiempo en lo visual.
+Este trabajo me ha permitido aplicar de forma práctica los fundamentos del diseño centrado en el usuario. Aunque aún hay margen de mejora en cuanto a validación con usuarios y herramientas más avanzadas, me siento un paso más cerca del diseño profesional en contextos reales.
 
-- Comunicar cada decisión con criterio: cada color, cada icono, cada jerarquía tiene un porqué.
+> Diseñar bien no es solo hacer algo bonito: es entender al usuario, su contexto y facilitarle las decisiones.
 
-- Diseñar para personas implica investigar primero y validar después.
+---
 
-- Las herramientas como mapas de empatía, flujos de tareas o mockups no son el objetivo, sino el medio para tomar decisiones informadas.
-
-- Una buena experiencia de usuario es invisible: simplemente funciona.
-
-Además, ahora sé cómo priorizar funcionalidades y evitar la sobrecarga de productos digitales desde la fase inicial. En el mundo profesional, donde los tiempos y recursos son limitados, esta capacidad de estructurar y filtrar ideas es clave para entregar valor de forma ágil.
-La experiencia con Figma y la construcción de prototipos de alta fidelidad también me ha dejado preparado para participar en flujos de trabajo reales con diseñadores y desarrolladores. Puedo comunicarme mejor con perfiles técnicos y justificar mis decisiones visuales y de interacción.
-Asimismo, he aprendido a presentar ideas con claridad, apoyándome en datos y evidencias, lo cual me da más seguridad para contribuir en reuniones de equipo o sesiones de validación con clientes. Esto me parece esencial si algún día trabajo en una agencia de diseño o en un equipo de producto.
-Por último, todo el trabajo en ECO-PICK me ha enseñado a tener una mentalidad centrada en el usuario, algo que considero aplicable no solo al diseño digital, sino a cualquier proceso de innovación o mejora de servicios.
-Gracias a esta asignatura he adquirido una base sólida en diseño UX, tanto teórica como práctica. He conocido herramientas reales de trabajo, he trabajado en un caso aplicado y, sobre todo, he aprendido a mirar los productos digitales con otros ojos. Me siento más cerca de poder enfrentar retos reales de diseño, con sentido crítico y metodología.
-
-Aunque aún me queda mucho por aprender, este proyecto ha sido una puerta de entrada a un campo que me motiva y en el que quiero seguir creciendo.
+Gracias por visitar este proyecto.
