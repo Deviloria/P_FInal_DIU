@@ -44,7 +44,12 @@ La web de la [Salamanca Film Commission](https://salamancafilmcommission.com/) p
 ## Próximos pasos
 
 - Comparativa con [Granada Film Commission](https://filmgranada.com/).
-- Propuesta de valor con ScopeCanvas.
+
+## 3.Propuesta de valor con ScopeCanvas.
+
+![image](https://github.com/user-attachments/assets/6ce912c1-79b4-4c50-ad65-eb00cb11530a)
+
+
 - Diseño de un mockup/rediseño enfocado a experiencia móvil.
 - Autoevaluación de las prácticas aplicadas frente al caso real.
 
