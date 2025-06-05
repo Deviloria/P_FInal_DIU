@@ -125,7 +125,19 @@ Un rediseño enfocado en estos criterios no solo mejoraría la experiencia digit
 ---
 ## 4. Diseño de un mockup/rediseño enfocado a experiencia móvil.
 
-![image](https://github.com/user-attachments/assets/342a0016-8fa3-49cc-a918-c2457ef075d4)
+## Inicio
+
+![image](https://github.com/user-attachments/assets/8c114e9a-13b0-412f-8545-755f5dc8f3db)
+
+## Filtro por ciudad y tipo de escena
+
+
+
+## Contacto
+
+![image](https://github.com/user-attachments/assets/116c87f4-00fb-44b6-a89a-cd5ac16b5899)
+
+
 
 
 - Autoevaluación de las prácticas aplicadas frente al caso real.
