@@ -138,8 +138,33 @@ Un rediseño enfocado en estos criterios no solo mejoraría la experiencia digit
 ![image](https://github.com/user-attachments/assets/116c87f4-00fb-44b6-a89a-cd5ac16b5899)
 
 
+# 5.Reflexión final y autoevaluación
 
+Este repositorio recoge un análisis UX comparativo entre las webs de **Salamanca** y **Granada Film Commission**, con propuestas de rediseño aplicadas según principios de diseño centrado en el usuario (DCU).
 
-- Autoevaluación de las prácticas aplicadas frente al caso real.
+## ✅ Lo que he aplicado
+
+- Análisis del perfil de usuario y sus necesidades reales.
+- Evaluación de interfaces con criterios de usabilidad y accesibilidad.
+- Propuestas visuales coherentes con la identidad y objetivos de la web.
+- Aplicación argumentada de principios UX: navegación por tareas, diseño emocional, mobile-first.
+
+## 🔍 Lo que hubiera sido interesante incorporar
+
+- Validación con usuarios reales mediante tests o entrevistas.
+- Prototipos interactivos (Figma, Adobe XD) en lugar de solo mockups estáticos.
+- Métricas cuantitativas de usabilidad para medir impacto real.
+- Revisión técnica más profunda sobre accesibilidad (contrastes, navegación por teclado, etc.).
+
+## 🚀 Conclusión
+
+Este trabajo me ha permitido aplicar de forma práctica los fundamentos del diseño centrado en el usuario. Aunque aún hay margen de mejora en cuanto a validación con usuarios y herramientas más avanzadas, me siento un paso más cerca del diseño profesional en contextos reales.
+
+> Diseñar bien no es solo hacer algo bonito: es entender al usuario, su contexto y facilitarle las decisiones.
+
+---
+
+Gracias por visitar este proyecto.
+
 
 
