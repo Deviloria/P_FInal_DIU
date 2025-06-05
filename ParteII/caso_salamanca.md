@@ -131,7 +131,7 @@ Un rediseño enfocado en estos criterios no solo mejoraría la experiencia digit
 
 ## Filtro por ciudad y tipo de escena
 
-
+![image](https://github.com/user-attachments/assets/2be96dc1-3262-41ce-9011-8d48e2a5ff2d)
 
 ## Contacto
 
