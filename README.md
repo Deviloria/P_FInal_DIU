@@ -100,9 +100,22 @@ La web de la [Salamanca Film Commission](https://salamancafilmcommission.com/) p
 
 ---
 
-## Comparativa con [Granada Film Commission](https://filmgranada.com/).
+## 📊 Comparativa con [Granada Film Commission](https://filmgranada.com/).
 
-## 📊 Conclusiones del análisis comparativo
+| **Criterio**               | **Salamanca Film Commission**                         | **Granada Film Commission**                                |
+|---------------------------|--------------------------------------------------------|------------------------------------------------------------|
+| 🎨 **Diseño visual**        | Sobrio y algo desactualizado                          | Más moderno, con imágenes atractivas                       |
+| 🧭 **Navegación**           | Menú poco claro, sin buscador                         | Menú principal bien jerarquizado y con buscador            |
+| 🗂 **Arquitectura de información** | Incompleta; páginas vacías o poco útiles             | Información bien estructurada por secciones                |
+| 📱 **Responsive Design**    | Pobre adaptación móvil, sin optimización táctil       | Correcta adaptación móvil, botones táctiles grandes        |
+| ♿ **Accesibilidad**        | Problemas de contraste y legibilidad                  | Uso adecuado de contraste y tamaño de fuente               |
+| ⚡ **Velocidad de carga**   | Lenta (imágenes sin optimizar)                        | Rápida, con imágenes optimizadas                           |
+| 🌐 **Idioma**              | Solo en español                                       | Disponible en español e inglés                             |
+| 🌟 **Valor diferencial**    | No está claro                                         | Granada destaca localizaciones, cine y economía            |
+| 🎭 **Narrativa y emoción** | Muy institucional, sin storytelling                   | Más atractivo, destaca rodajes y cultura local             |
+
+
+## Conclusiones del análisis comparativo
 
 Desde una perspectiva profesional y aplicando los principios del **Diseño Centrado en el Usuario**, el análisis de las webs de **Salamanca** y **Granada Film Commission** pone de manifiesto enfoques muy distintos en cuanto a diseño y funcionalidad. A continuación, se presentan las principales conclusiones como jurado experto en usabilidad y experiencia de usuario.
 
